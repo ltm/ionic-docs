@@ -1,3 +1,5 @@
 files:
   - source: /src/pages/**/*.md
     translation: /src/pages/%two_letters_code%/**/%original_file_name%
+  - source: /scripts/data/*.json
+    translation: /scripts/data/%two_letters_code%/%original_file_name%
